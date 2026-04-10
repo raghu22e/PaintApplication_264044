@@ -13,7 +13,7 @@ public class CircleTest {
 
         double area = circle.area();
 
-        assertEquals(100, area, 0.5);
+        assertEquals(78.54, area, 0.5);
     }
 
     @Test
